@@ -9,8 +9,8 @@ const {courseInstructor : instructor} = course
 
 console.log(instructor);
 
-{
-    "name" : "vivek potdar"
-    "age" : 28
-    
-}
+// {
+//     "name" : "vivek potdar"
+//     "age" : 28
+
+// }
